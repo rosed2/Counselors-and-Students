@@ -14,6 +14,7 @@ create a file with the same title or edit the file and list their information. T
 9. Sixth Period
 10. Seventh Period
 11. Eighth Period
+
 Repeat this format starting on the very next line for the next counselor's information.
 
 The program creates the students' accounts from the text files "Counselor[0]Students.txt", "Counselor[1]Students.txt", and
@@ -25,3 +26,7 @@ where there is some number between the square brackets. The number between the s
 the place the corresponding counselor is in "CounselorSchedules.txt". So the first counselor's (in "CounselorSchedules.txt")
 students are in "Counselor[0]Students.txt", the second counselor's students are in "Counselor[1]Students.txt" and so forth.
 The students' information in the text files should be the same format as the counselors' information in "CounselorSchedules.txt".  
+
+Each user has a user name and password that they use to sign in. Their user name is their first name and their last 
+name together without a space in between and with the first letter of each capitalized. For example, if their name was "John Doe", their 
+user name would be "JohnDoe". Their password was set in the text files "Counselor[]Students.txt".
