@@ -1,6 +1,11 @@
 # Counselors-and-Students
 This is a program that allows students to easily interact and communicate with their counselors.
 
+This program has the students' and counselors' schedules and allows the students to see their counselor's schedule, 
+make meetings with them, and then updates both the student's and counselor's schedules for that day. Students also have an inbox
+and can send messages to their counselor, and their counselor also has an inbox and can messages back to their students. 
+The counselors can also see their whole list of students. 
+
 This program creates the counselors' accounts from the text file "CounselorSchedules.txt". To customize the counselors, 
 create a file with the same title or edit the file and list their information. The format is (do not include the numbers):
 1. First Name
